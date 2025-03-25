@@ -4,7 +4,7 @@
 - **LinkedIn**: [Frederic-Akadje-linkedin](https://www.linkedin.com/in/frederic-1034a4183/)
 - **website**: https://github.com/Welfare1/
 
-##### I am currently in my final year of a Master's degree in Data Science, specializing in machine learning, deep learning (with a focus on computer vision), and MLOps. Through my studies, I have worked on numerous projects that have allowed me to develop skills in various domains, including:
+##### I am currently in my final year of a Master's degree in Data Science, specializing in mathematics, machine learning and deep learning. Through my studies, I have worked on numerous projects that have allowed me to develop skills in various domains, including:
 
 - **Data Analysis** with tools like `Power BI`, `Tableau Software`.
 - **Data Engineering** with `Big Query`, `SQL`, and `AirFlow`.
