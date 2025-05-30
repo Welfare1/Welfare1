@@ -2,7 +2,7 @@
 
 - **Mail**: akadje37@gmail.com
 - **LinkedIn**: [Frederic-Akadje-linkedin](https://www.linkedin.com/in/frederic-1034a4183/)
-- **website**: https://github.com/Welfare1/
+- **website**: [https://github.com/Welfare1/](https://welfare1.github.io/Portfolio/)
 
 ##### I am currently in my final year of a Master's degree in Data Science, specializing in mathematics, machine learning and deep learning. Through my studies, I have worked on numerous projects that have allowed me to develop skills in various domains, including:
 
