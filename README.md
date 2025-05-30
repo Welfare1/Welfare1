@@ -6,10 +6,10 @@
 
 ##### I am currently in my final year of a Master's degree in Data Science, specializing in mathematics, machine learning and deep learning. Through my studies, I have worked on numerous projects that have allowed me to develop skills in various domains, including:
 
-- **Data Analysis** with tools like `Power BI`, `Tableau Software`.
-- **Data Engineering** with `Big Query`, `SQL`, and `AirFlow`.
+- **Data Analysis** with tools like `Power BI`, `Excel`.
+- **Data Engineering** with `Spark`, `Hadoop`,`Dask`, `SQL/NoSQL`.
 - **Machine Learning** with `Python`, `R`, and `TensorFlow`.
-- **Natural Language Processing (NLP)** `Transformers`, `Hugging Face`
+- **Natural Language Processing (NLP)** `Transformers`, `Hugging Face`, `LLM API intergration`
 - **Computer Vision** with libraries like `OpenCV`, and `YOLO`.
 
 ###### Feel free to check out some of my projects in my repositories!
